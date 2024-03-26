@@ -14,3 +14,7 @@ Quando o usuário escolher o tênis que deseja comprar, uma nova guia será aber
 Na tela de pagamento deverá ser feita a escolha de pagamento (pix, cartão ou boleto) e será necessário confirmar o nome, e-mail, endereço e cep.
 
 Feito por: Gabriel Dias, Jenifer Rafaela e Fernando Barbosa
+
+
+<img align="center" alt="login" src="video/ecommerc.mp4">
+

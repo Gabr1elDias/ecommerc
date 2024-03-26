@@ -16,5 +16,5 @@ Na tela de pagamento deverá ser feita a escolha de pagamento (pix, cartão ou b
 Feito por: Gabriel Dias, Jenifer Rafaela e Fernando Barbosa
 
 
-<img align="center" alt="login" src="video/ecommerc.mp4">
+[<img align="center" alt="login" src="video/ecommerc.mp4">](https://drive.google.com/file/d/1CSr8f2d2xiLuvCbfZC6d8qaSKmI0C5a5/view?usp=sharing)https://drive.google.com/file/d/1CSr8f2d2xiLuvCbfZC6d8qaSKmI0C5a5/view?usp=sharing
 
